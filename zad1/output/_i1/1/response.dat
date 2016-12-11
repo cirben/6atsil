@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Date: Sun, 11 Dec 2016 16:13:32 GMT
+Server: Apache/2.4.23 (Unix) OpenSSL/1.0.2j PHP/5.6.24 mod_perl/2.0.8-dev Perl/v5.16.3
+X-Powered-By: PHP/5.6.24
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+location: http://localhost/lista4/index.php
+Content-Length: 730
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+Blad pytania: SELECT password FROM Users WHERE login=''skip'''"fish"""'<br>
+Numer bledu : 1064<br>
+Blad: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'skip'''"fish"""'' at line 1
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>/opt/lampp/htdocs/lista4/passUtil.php</b> on line <b>12</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>/opt/lampp/htdocs/lista4/passUtil.php</b> on line <b>12</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>/opt/lampp/htdocs/lista4/passUtil.php</b> on line <b>13</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 0 in <b>/opt/lampp/htdocs/lista4/passUtil.php</b> on line <b>13</b><br />
+ð

@@ -1,0 +1,1 @@
+sudo skipfish -S /usr/share/skipfish/dictionaries/complete.wl -o ./output -I http://localhost/lista4/ --auth-user aa --auth-pass aa http://localhost/lista4/   

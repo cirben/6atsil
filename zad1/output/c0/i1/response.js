@@ -1,0 +1,1 @@
+var res = {'data':'HTTP/1.1 302 Found\x0aDate: Sun, 11 Dec 2016 16:12:28 GMT\x0aServer: Apache/2.4.23 (Unix) OpenSSL/1.0.2j PHP/5.6.24 mod_perl/2.0.8-dev Perl/v5.16.3\x0aX-Powered-By: PHP/5.6.24\x0aLocation: http://localhost/dashboard/\x0aContent-Length: 0\x0aKeep-Alive: timeout=5, max=100\x0aConnection: Keep-Alive\x0aContent-Type: text/html; charset=UTF-8\x0a'}

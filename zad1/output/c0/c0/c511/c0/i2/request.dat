@@ -1,0 +1,12 @@
+POST /lista4/login.php HTTP/1.1
+Host: localhost
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: http://localhost/
+Cookie: PHPSESSID=v7a11ajc7k7gp8kckcvv5vb9r6
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+
+login='skip'''"fish"""&password=skipfish&loginflag=log%20in&registerflag=register

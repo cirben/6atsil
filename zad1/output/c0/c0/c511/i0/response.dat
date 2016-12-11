@@ -1,0 +1,7 @@
+HTTP/1.1 302 Found
+Date: Sun, 11 Dec 2016 16:12:28 GMT
+Server: Apache/2.4.23 (Unix) OpenSSL/1.0.2j PHP/5.6.24 mod_perl/2.0.8-dev Perl/v5.16.3
+X-Powered-By: PHP/5.6.24
+Set-Cookie: PHPSESSID=d2dfkssg3bqhgep622dp8o1oq7; path=/
+
+[...truncated...]
